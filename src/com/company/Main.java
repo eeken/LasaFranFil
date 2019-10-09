@@ -18,5 +18,8 @@ public class Main {
         //Read object from file
         students = (ArrayList<Student>) objectIO.ReadObjectFromFile("studentlist.txt");
         System.out.println(students);
+
+
+        testar igen..
     }
 }
